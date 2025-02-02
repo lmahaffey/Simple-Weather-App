@@ -5,7 +5,7 @@
 
 The API provider: http://www.OpenWeatherMap.org
 
-Grab your persion API Key for OpenWeatherMap and place it into config-default.js. Then, rename the file to simply "config.js"
+Grab your personal API Key for OpenWeatherMap and place it into config-default.js. Then, rename the file to simply "config.js".
 
 ## Live demo
 [Javascript Weather App](https://bhaskar-maity.github.io/Javascript-weather-app/)
